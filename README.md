@@ -17,9 +17,16 @@ Here are some ideas to get you started:
 -->
 
 
+<h1 align="center">Hi there! 👋, I'm Roman Shrestha</h1>
+<h3 align="center">An enthusiastic undergraduate student of Electronics, Communication, and Information Engineering at Tribhuvan University, IoE Pashchimanchal Campus.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technozamazing&label=Profile%20views&color=0e75b6&style=flat" alt="technozamazing" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technozamazing" alt="technozamazing" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [romanstha.com.np](romanstha.com.np)
+
+- 📫 How to reach me **contact@romanstha.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
