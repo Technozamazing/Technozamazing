@@ -43,9 +43,9 @@ An enthusiastic undergraduate student of Electronics Communication and Informati
  ## 📈 GitHub Stats:
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=technozamazing&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=technozamazing&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=technozamazing&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=technozamazing&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=technozamazing&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=technozamazing&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
