@@ -54,5 +54,6 @@ An enthusiastic undergrad student of Electronics Communication and Information E
 
 [![Roman's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=Technozamazing&theme=github-compact)](https://github.com/Technozamazing/github-readme-activity-graph)
 
-
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/db72d252-6988-4f98-9ba8-9001317ee84f"/> Hacktoberfest Badges
+[![An image of @technozamazing's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/technozamazing)](https://holopin.io/@technozamazing)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
