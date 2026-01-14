@@ -44,16 +44,17 @@ An enthusiastic undergrad student of Electronics Communication and Information E
 ![HTML5](https://badgelab.dev/api/badge/html5-white)
 ![JavaScript](https://badgelab.dev/api/badge/javascript)
 ![Arduino](https://badgelab.dev/api/badge/arduino-white)
+![Python](https://badgelab.dev/api/badge/python-white) 
 
 Like these badges? Find them at the [BadgeLab](https://github.com/ethanillingsworth/BadgeLab) repo.
 
 ## 📈 GitHub Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=technozamazing&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Technozamazing&theme=dark&show_icons=true&count_private=true">
 
-![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=technozamazing&theme=gruvbox&hide_border=true)
-
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technozamazing&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Technozamazing&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Technozamazing&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## 📈 GitHub Commit Activity
 
