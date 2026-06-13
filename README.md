@@ -25,28 +25,52 @@ https://badgelab-api.netlify.app
 
 An enthusiastic undergrad student of Electronics Communication and Information Engineering at Tribhuvan University, IoE Pashchimanchal Campus.
 
-[![LinkedIn](https://badgelab.dev/api/badge/linkedin-white)](https://www.linkedin.com/in/its-me-roman-shrestha/)
-[![Website](https://badgelab.dev/api/badge/website-white)](https://romanstha.com.np/)
-[![Email](https://badgelab.dev/api/badge/email-white)](mailto:contact@romanstha.com.np)
-
-## 🌐 Socials
-
-[![Behance](https://badgelab.dev/api/badge/behance-white)](https://behance.net/romanshrestha8)
-[![Facebook](https://badgelab.dev/api/badge/facebook-white)](https://facebook.com/its.me.roman.shrestha)
-[![Instagram](https://badgelab.dev/api/badge/instagram-white)](https://instagram.com/its.me.roman.shrestha)
-[![LinkedIn](https://badgelab.dev/api/badge/linkedin-white)](https://linkedin.com/in/its-me-roman-shrestha)
-
 ## 💻 Tech Stack
 
-![C](https://badgelab.dev/api/badge/c-white)
-![C++](https://badgelab.dev/api/badge/cpp-white)
-![CSS3](https://badgelab.dev/api/badge/css3-white)
-![HTML5](https://badgelab.dev/api/badge/html5-white)
-![JavaScript](https://badgelab.dev/api/badge/javascript)
-![Arduino](https://badgelab.dev/api/badge/arduino-white)
-![Python](https://badgelab.dev/api/badge/python-white) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
 
-Like these badges? Find them at the [BadgeLab](https://github.com/ethanillingsworth/BadgeLab) repo.
+<h3 align="left">AI / ML</h3>
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<h3 align="left">Database</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+</p>
+
+<h3 align="left">Other Tools</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 
 ## 📈 GitHub Stats
 
